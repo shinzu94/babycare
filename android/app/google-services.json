@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "810384818384",
+    "project_id": "babycare-18f40",
+    "storage_bucket": "babycare-18f40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810384818384:android:1f758dae72af67f34c1ed5",
+        "android_client_info": {
+          "package_name": "com.babycare.babycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810384818384-l12cgrviftu3oe1q6bukcb5gsrpg3rso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEN49ajQVdr92sK-mk68abuGYEWFHNVjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810384818384-l12cgrviftu3oe1q6bukcb5gsrpg3rso.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810384818384-ovj5em2lhrtvjf9fg1tcen57lp8567k6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.babycare.babycare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
